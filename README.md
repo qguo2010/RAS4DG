@@ -24,14 +24,3 @@ conda activate ras4dg
 conda install pytorch==1.12.0 torchvision==0.13.0 torchaudio==0.12.0 cudatoolkit=11.3 -c pytorch
 pip install -r requirements.txt
 ```
-
-
-
-
-
-## Citation
-
-Code for the following paper
-
-Q. Qiao, W. Wang, M. Qu, K. Su, B. Jiang, and Q. Guo, Medical image segmentation via single-source domain generalization with random amplitude spectrum synthesis, *Proceedings of the 27th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2024)*, pp. 435-445, 2024.
-

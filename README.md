@@ -43,6 +43,7 @@ pip install -r requirements.txt
 
 ## Citation
 
-```
-Q. Qiao, W. Wang, M. Qu, K. Su, B. Jiang, and Q. Guo, Medical Image Segmentation via Single-Source Domain Generalization with Random Amplitude Spectrum Synthesis, Proceedings of the 27th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2024), pp. 435-445, 2024.
-```
+Code for the following paper
+
+Q. Qiao, W. Wang, M. Qu, K. Su, B. Jiang, and Q. Guo, Medical Image Segmentation via Single-Source Domain Generalization with Random Amplitude Spectrum Synthesis, *Proceedings of the 27th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2024)*, pp. 435-445, 2024.
+
